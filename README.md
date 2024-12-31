@@ -1,2 +1,2 @@
-# test
-just for the test
+# hexa game
+ its a hexagon puzzle game
